@@ -1,5 +1,5 @@
 # Animal Classification
-This project was created in collaboration with 
+This project was created in collaboration with https://github.com/Grazzly 
 
 For this project we used [Zoo Animal Classification](https://www.kaggle.com/datasets/uciml/zoo-animal-classification) dataset.
 ## Description
